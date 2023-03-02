@@ -19,5 +19,3 @@
 </script>
 </body>
 </html>
-
-https://kemabo.github.io/
